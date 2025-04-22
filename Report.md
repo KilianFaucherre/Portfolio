@@ -1,4 +1,4 @@
-# Climate science - A detailed visualization of post-industrial temperature change over the world
+# 🌍 Climate science - A detailed visualization of post-industrial temperature change over the world
 
 ## Introduction
 
