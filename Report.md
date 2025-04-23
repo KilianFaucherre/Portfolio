@@ -20,7 +20,6 @@ I have gathered the entie library of data available on the [NOAA website](https:
 ```python  
 import os
 import csv
-```
 </pre>
 
 
