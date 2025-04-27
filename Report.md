@@ -22,6 +22,15 @@ This project will be done using Pyhton. You can download the program on the offi
 ```python   
 import os
 import csv
+import pandas as pd
+import re
+import dask.dataframe as dd
+import numpy as np
 ```
-
+##### os
+OS is a standard library module that lets you interact with the computers operating system. In this case I will use it to check for the existance of the folders I use the data from. It is not mandatory but can be useful in instances where you need to interact with the os. 
+##### csv
+CSV is a very simple module that allows you to read and write csv files in python. In this project I will use some csv files for temporary storage and operations with pandas
+##### pandas 
+Pandas is the go to package for data manipulation and analysis for structured data. 
 
